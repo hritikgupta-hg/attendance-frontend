@@ -1,18 +1,4 @@
-/* 
-
-
-  
-  .App {
-    text-align: center;
-    padding: 20px;
-  }
-  
-  h1 {
-    color: #4a90e2;
-    margin-bottom: 20px;
-  }
-  
-  .attendance-form {
+.attendance-form {
     max-width: 400px;
     margin: 0 auto;
     background: white;
@@ -93,51 +79,4 @@
   .attendance-table tr:hover {
     background-color: #f1f1f1;
   }
-   */
-
-.App {
-  text-align: center;
-}
-
-.app-header {
-  /* background-color: #282c34; */
-  padding: 20px;
-  color: white;
-  position: relative;
-}
-
-.app-header img {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  left: 0;
-  top:0;
-  z-index: -1;
-  filter: brightness(60%);
-}
-
-.college-name {
-  font-size: 2.5rem;
-  margin: 0;
-}
-
-.links {
-  margin: 20px 0;
-}
-
-.link-button {
-  display: inline-block;
-  margin: 10px;
-  padding: 15px 30px;
-  font-size: 1.2rem;
-  color: white;
-  background-color: #282c34;
-  border: none;
-  border-radius: 5px;
-  text-decoration: none;
-  transition: background-color 0.3s ease;
-}
-
-.link-button:hover {
-  background-color: #3c4048;
-}
+  
